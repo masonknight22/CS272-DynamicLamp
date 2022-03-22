@@ -1,3 +1,12 @@
+/*
+ * Dynamic Lamp
+ * 
+ * A program that operates a physical lamp that facilitates a relaxing evening environment by using multiple button inputs which controls LED and servo outputs
+ * 
+ * @author Mason Knight
+ * @version 22 March 2022
+ * 
+ */
 
 
 #include <Servo.h>
